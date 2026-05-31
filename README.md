@@ -1,4 +1,4 @@
-# sim.drug_design
+﻿# sim.drug_design
 
 Li package `sim.drug_design`
 
@@ -22,4 +22,4 @@ See `PUBLISH.md` and `docs/traceability.md`.
 
 ## License
 
-Apache-2.0 OR MIT
+GPL-3.0-or-later OR MIT
